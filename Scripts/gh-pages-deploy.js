@@ -2,7 +2,7 @@
 /**
  * @source https://blog.logrocket.com/build-deploy-vue-js-app-github-pages/
  * @modified by https://github.com/dazecoop/github-page-deploy
- */
+ */ 
 
 // UPDATE THE FOLLOWING TO YOUR PROJECT NAME WITHIN GITHUB
 // eg https://dazecoop.github.io/PROJECT_NAME/ <- This bit
